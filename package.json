@@ -1,14 +1,14 @@
 {
-  "name": "MrCar",
+  "name": "Zoolander",
   "version": "1.0.0",
-  "description": "MrCar - Battle snake",
+  "description": "Zoolander - Battle snake",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "Niklas Ingholt",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "restify": "^4.3.0"
   }
