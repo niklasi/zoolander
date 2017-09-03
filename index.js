@@ -12,9 +12,9 @@ server.post('/start', function create(req, res, next) {
   res.json(200, {
     color: '#FF0000',
     secondary_color: '#00FF00',
-    head_url: 'http://placecage.com/c/100/100',
+    head_url: 'http://www.prettyconnected.com/wp-content/uploads/2011/03/magnum1.jpg',
     name: 'Zoolander',
-    taunt: 'Blue steel',
+    taunt: 'Magnum!',
     head_type: 'pixel',
     tail_type: 'pixel'
   })
